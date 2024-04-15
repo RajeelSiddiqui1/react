@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "img": "l5.jpg",
+    "title": "Pakistan",
+    "desc": "Lahore",
+    "type": "location"
+  },
+  {
+    "id": 1,
+    "img": "l5.jpg",
+    "title": "Turkey",
+    "desc": "Istanbul",
+    "type": "location"
+  },
+  {
+    "id": 2,
+    "img": "l5.jpg",
+    "title": "Pakistan",
+    "desc": "Islamabad",
+    "type": "location"
+  },
+  {
+    "id": 3,
+    "img": "l4.jpg",
+    "title": "Pakistan",
+    "desc": "Karachi",
+    "type": "location"
+  },
+  {
+    "id": 4,
+    "img": "l5.jpg",
+    "title": "Pakistan",
+    "desc": "Multan",
+    "type": "location"
+  },
+  {
+    "id": 5,
+    "img": "l5.jpg",
+    "title": "Pakistan",
+    "desc": "Rawalpindi",
+    "type": "location"
+  },
+  {
+    "id": 6,
+    "img": "packege-6.jpg",
+    "title": "Beach Paradise",
+    "desc": "Enjoy a luxurious beach vacation with our package!",
+    "type": "package"
+  },
+  {
+    "id": 7,
+    "img": "l2.jpg",
+    "title": "Mountain Adventure",
+    "desc": "Embark on an exciting mountain adventure with our package!",
+    "type": "package"
+  },
+  {
+    "id": 8,
+    "img": "l3.jpg",
+    "title": "Historical Tour",
+    "desc": "Explore the rich history of Pakistan with our package!",
+    "type": "package"
+  },
+  {
+    "id": 9,
+    "img": "l4.jpg",
+    "title": "City Escape",
+    "desc": "Escape to the bustling city life with our package!",
+    "type": "package"
+  },
+  {
+    "id": 10,
+    "img": "l5.jpg",
+    "title": "Desert Safari",
+    "desc": "Experience the thrill of a desert safari with our package!",
+    "type": "package"
+  },
+  {
+    "id": 11,
+    "img": "l6.jpg",
+    "title": "Cultural Immersion",
+    "desc": "Immerse yourself in the rich culture of Pakistan with our package!",
+    "type": "package"
+  }
+]

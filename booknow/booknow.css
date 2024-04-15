@@ -1,0 +1,108 @@
+
+:root{
+    --main-color-: hsl(214, 56%, 58%);
+    --secondary-color-:hsl(214, 57%, 51%);
+    --side-color-: hsl(197, 100%, 36%);
+    --dark-color:hsl(208, 97%, 12%);
+    --text-color-:hsl(0,0%,100%);
+    --footer-color-:hsl(206, 34%, 20%);
+}
+
+body {
+ background: black;
+}
+
+
+/* navbar */
+
+.navbar {
+    background: var(--dark-color);
+  }
+
+  .navbar .navbar-brand {
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--text-color-);
+  }
+
+  .navbar .navbar-brand img {
+    width: 100px;
+    height: 80px;
+  }
+
+  .nav-link {
+    color: var(--text-color-);
+    font-weight: 650;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+  }
+
+  .nav-link:hover {
+    color: var(--secondary-color-);
+  }
+
+  /* navbar */
+
+  footer{
+    background: var(--footer-color-);
+  }
+  
+  .text {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 600;
+    position: relative;
+  }
+  
+  .text::after{
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 50px;
+  height: 5px;
+  background: var(--text-color-);
+  }
+  
+  .text-content{
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 100;
+  }
+
+   /* navbar */
+
+   /* adddtocart */
+
+   h1{
+color: var(--text-color-);
+font-size: 3rem;
+font-weight: 700;
+   }
+
+ p{
+    color: var(--text-color-);
+    font-size: 1rem;
+    font-weight: 500;
+       }
+
+.custom-form-bg{
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+/* adddtocart */
+
+.navbar-toggler-icon{
+  color: var(--text-color-);
+}
+
+
+
+
+
+
+
+
+   
